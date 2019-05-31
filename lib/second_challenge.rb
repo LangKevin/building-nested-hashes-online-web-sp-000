@@ -7,7 +7,7 @@ def second_challenge
       #your key/value pairs here!
       }}
 
-      def second_challenge
+
         epic_tragedy = {
            :montague => {
               :patriarch => {},
@@ -23,5 +23,5 @@ def second_challenge
            }
         }
         return epic_tragedy
-      end
+      
 end
